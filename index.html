@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="60">
+    <title>Arma Reforger Server Status</title>
+    <style>
+        body { 
+            background-color: #121212; 
+            color: #e0e0e0; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            padding: 40px;
+            margin: 0;
+        }
+        h1 { margin-bottom: 30px; color: #fff; text-transform: uppercase; letter-spacing: 2px; }
+        table { 
+            border-collapse: collapse; 
+            width: 90%; 
+            max-width: 1100px; 
+            background-color: #1e1e1e;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #333; }
+        th { background-color: #2d2d2d; color: #aaa; font-size: 0.9em; }
+        tr:last-child td { border-bottom: none; }
+        tr:hover { background-color: #2a2a2a; transition: background-color 0.2s; }
+        .status-online { color: #4caf50; font-weight: bold; }
+        .status-offline { color: #f44336; font-weight: bold; }
+        #loading { font-size: 1.2em; color: #888; }
+        .player-count { font-family: monospace; font-size: 1.1em; }
+    </style>
+</head>
+<body>
+    <h1>Arma Reforger Status</h1>
+    <div id="loading">Fetching latest server data...</div>
+    <table id="server-table" style="display:none;">
+        <thead>
+            <tr>
+                <th>SERVER NAME</th>
+                <th>PLAYERS</th>
+                <th>STATUS</th>
+                <th>MAP</th>
+            </tr>
+        </thead>
+        <tbody id="server-list"></tbody>
+    </table>
+    <script>
+        fetch('status.json')
+            .then(response => response.json())
+            .then(data => {
+                const list = document.getElementById('server-list');
+                const loading = document.getElementById('loading');
+                const table = document.getElementById('server-table');
+                
+                if (!data || data.length === 0) {
+                    loading.innerText = 'No servers found.';
+                    return;
+                }
+
+                loading.style.display = 'none';
+                table.style.display = 'table';
+                
+                data.forEach(server => {
+                    const row = document.createElement('tr');
+                    const statusClass = server.status === 'online' ? 'status-online' : 'status-offline';
+                    row.innerHTML = `
+                        <td>${server.name}</td>
+                        <td class="player-count">${server.players}/${server.maxPlayers}</td>
+                        <td class="${statusClass}">${server.status.toUpperCase()}</td>
+                        <td>${server.map}</td>
+                    `;
+                    list.appendChild(row);
+                });
+            })
+            .catch(err => {
+                console.error(err);
+                document.getElementById('loading').innerText = 'Error loading status data. Please wait for the first update.';
+            });
+    </script>
+</body>
+</html>
