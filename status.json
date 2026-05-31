@@ -21,6 +21,13 @@
         "map": "Unknown"
     },
     {
+        "name": "Old Guys 9 | Fallujah Iraq | Modern Conflict | discord.gg/oldguys",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "[FR] Nous \u00e9tions Soldats 2 | PS5/PC/XBOX | discord.armanes.ovh",
         "players": 128,
         "maxPlayers": 128,
@@ -35,7 +42,7 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA1] WARPIGS 24/7 TACTICS & TEAMWORK | NEW PLAYERS WELCOME | Boosted XP |discord.gg/3YjYEEhHK",
+        "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
         "players": 128,
         "maxPlayers": 128,
         "status": "online",
@@ -49,6 +56,13 @@
         "map": "Unknown"
     },
     {
+        "name": "Old Guys 5 | Fallujah Iraq | Modern Conflict | discord.gg/oldguys",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "[RU] #1 | ARMA-RUSSIAN.RU | RUSSIAN SERVER | VANILLA CONFLICT EVERON",
         "players": 127,
         "maxPlayers": 128,
@@ -56,14 +70,7 @@
         "map": "Unknown"
     },
     {
-        "name": "#1 EXD.gg \u00bb 1st Person | New Player Friendly | EU | Vanilla | Discord.exd.gg - gh56e",
-        "players": 126,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA2] OPR FARGO | 3pp Ukraine-Russia War | discord.gg/oprfargo",
+        "name": "BTGG 2 | US Civil War - Golden Gate | discord.gg/armabtgg",
         "players": 126,
         "maxPlayers": 128,
         "status": "online",
@@ -77,13 +84,6 @@
         "map": "Unknown"
     },
     {
-        "name": "Old Guys 5 | Fallujah Iraq | Modern Conflict | discord.gg/oldguys",
-        "players": 126,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
         "name": "[FOR] Conflict #1 - Arland PVP - No A.I. - Favorite & Join 3000+ players @ discord.gg/fieldofregard",
         "players": 125,
         "maxPlayers": 128,
@@ -91,35 +91,35 @@
         "map": "Unknown"
     },
     {
-        "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
-        "players": 124,
+        "name": "#1 EXD.gg \u00bb 1st Person | New Player Friendly | EU | Vanilla | Discord.exd.gg - gh56e",
+        "players": 125,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
         "name": "[NA1] ASAP | Modern PvP | Drones |  AAS/Conflict discord.gg/asapgaming",
+        "players": 124,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA1] WARPIGS 24/7 TACTICS & TEAMWORK | NEW PLAYERS WELCOME | Boosted XP |discord.gg/3YjYEEhHK",
+        "players": 124,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[AWG-Alpha] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
         "players": 123,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "Old Guys 9 | Fallujah Iraq | Modern Conflict | discord.gg/oldguys",
-        "players": 123,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
-        "players": 122,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU5] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com",
+        "name": "BTGG 1 | US Civil War - Golden Gate | discord.gg/armabtgg",
         "players": 122,
         "maxPlayers": 128,
         "status": "online",
@@ -133,6 +133,13 @@
         "map": "Unknown"
     },
     {
+        "name": "[NA1] WE THE PEOPLE - Vanilla Everon | N/S MOB | KF ON | discord.gg/WeThePeopleGaming",
+        "players": 119,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "[EU] Conflict in Europe #2 (CIE) | UA-RU | 1pp | discord.gg/conflictineurope",
         "players": 118,
         "maxPlayers": 128,
@@ -140,15 +147,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
+        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
         "players": 114,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "BTGG 2 | US Civil War - Golden Gate | discord.gg/armabtgg",
-        "players": 103,
+        "name": "[NA2] OPR FARGO | 3pp Ukraine-Russia War | discord.gg/oprfargo",
+        "players": 109,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -161,15 +168,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[AWG-Alpha2] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
-        "players": 89,
+        "name": "[EU5] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com",
+        "players": 87,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "BTGG 1 | US Civil War - Golden Gate | discord.gg/armabtgg",
-        "players": 83,
+        "name": "Old Guys 1 | Rahhaliyah Iraq | Modern Conflict | discord.gg/oldguys",
+        "players": 82,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -182,15 +189,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA] VIETNAM '67 | ARMACONFLICT.COM | US-2 | VIN DIN DROP | WELCOME PS5",
-        "players": 72,
+        "name": "[NA8] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com | Hosted by awn.gg",
+        "players": 73,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[NA1] WE THE PEOPLE - Vanilla Everon | N/S MOB | KF ON | discord.gg/WeThePeopleGaming",
-        "players": 69,
+        "name": "[NA] VIETNAM '67 | ARMACONFLICT.COM | US-2 | VIN DIN DROP | WELCOME PS5",
+        "players": 72,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -203,8 +210,22 @@
         "map": "Unknown"
     },
     {
+        "name": "[AWG-Alpha2] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
+        "players": 63,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "NARCOS LIFE ROLEPLAY | US-2 | PUBLIC | discord.gg/narcosliferp",
         "players": 60,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[MEX][USA]Bravo Six Company | Sedena vs Narcos Milsim/RP | PC/XBOX/PS5 |",
+        "players": 44,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -217,8 +238,8 @@
         "map": "Unknown"
     },
     {
-        "name": "Old Guys 1 | Rahhaliyah Iraq | Modern Conflict | discord.gg/oldguys",
-        "players": 35,
+        "name": "[TAC] Tactical Arma Conflict | Vanilla| discord.gg/tacticalarma",
+        "players": 38,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -238,22 +259,8 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA2] WARPIGS 24/7 TACTICS & TEAMWORK| AI ON | NO KF | Boosted XP | discord.gg/3YjYEEhHK",
-        "players": 28,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[MEX][USA]Bravo Six Company | Sedena vs Narcos Milsim/RP | PC/XBOX/PS5 |",
+        "name": "[BRASIL/LATAM] SAS #1 EASYCORE | US vs RU | CROSSPLAY | Discord.gg/sasbr\"",
         "players": 25,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA8] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com | Hosted by awn.gg",
-        "players": 24,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -266,36 +273,43 @@
         "map": "Unknown"
     },
     {
+        "name": "[NA2] WARPIGS 24/7 TACTICS & TEAMWORK| AI ON | NO KF | Boosted XP | discord.gg/3YjYEEhHK",
+        "players": 22,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "armareforger Server",
-        "players": 23,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[TAC] Tactical Arma Conflict | Vanilla| discord.gg/tacticalarma",
-        "players": 23,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA5] W.C.S. Realism NATO/RUS Rostov AAS | discord.armawcs.com | Hosted by awn.gg",
-        "players": 19,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[BRASIL/LATAM] SAS #1 EASYCORE | US vs RU | CROSSPLAY | Discord.gg/sasbr\"",
-        "players": 11,
+        "players": 18,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
         "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "players": 16,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA5] W.C.S. Realism NATO/RUS Rostov AAS | discord.armawcs.com | Hosted by awn.gg",
+        "players": 11,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
         "players": 10,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA7] W.C.S. Realism NATO/RUS Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "players": 9,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -315,27 +329,6 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA7] W.C.S. Realism NATO/RUS Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 7,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA3] SpearHead Hostomel UHC | Discord.gg/spear-head | Hosted by LoafHost",
-        "players": 1,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[AWG-Alpha] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
-        "players": 0,
-        "maxPlayers": 128,
-        "status": "offline",
-        "map": "Unknown"
-    },
-    {
         "name": "[OGR1] Old Guard Revival 1 | Udachne | Drones | Crossplay | discord.gg/oldguardarma",
         "players": 0,
         "maxPlayers": 128,
@@ -347,6 +340,13 @@
         "players": 0,
         "maxPlayers": 128,
         "status": "offline",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA3] SpearHead Hostomel UHC | Discord.gg/spear-head | Hosted by LoafHost",
+        "players": 0,
+        "maxPlayers": 128,
+        "status": "online",
         "map": "Unknown"
     }
 ]
