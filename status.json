@@ -21,7 +21,21 @@
         "map": "Unknown"
     },
     {
+        "name": "[EU/UK1] HOGS OF WAR | WCS+RHS | CONSOLE FRIENDLY | Join Discord.gg/HOGSOFWAR",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[LATAMSQUAD] UCRANIA CORE #1 (PC/XBOX/PS5) | Discord.gg/latamsquad",
         "players": 128,
         "maxPlayers": 128,
         "status": "online",
@@ -56,6 +70,34 @@
         "map": "Unknown"
     },
     {
+        "name": "[NA2] WARPIGS 24/7 TACTICS & TEAMWORK| AI ON | NO KF | Boosted XP | discord.gg/3YjYEEhHK",
+        "players": 127,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA1] SpearHead Yunakivka UHC | Crossplay | Discord.gg/spear-head | Hosted by LoafHosts",
+        "players": 127,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[EU5] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com",
+        "players": 127,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[AWG-Alpha] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
+        "players": 126,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "[OGR1] Old Guard Revival 1 | Udachne Drones | Modern Conflict | Crossplay | discord.gg/oldguardarma",
         "players": 126,
         "maxPlayers": 128,
@@ -63,7 +105,14 @@
         "map": "Unknown"
     },
     {
-        "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
+        "name": "[BRASIL/LATAM] SAS #2 MIDCORE | UC X RU | CROSSPLAY | Discord.gg/sasbr",
+        "players": 126,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
         "players": 125,
         "maxPlayers": 128,
         "status": "online",
@@ -77,8 +126,8 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA2] WARPIGS 24/7 TACTICS & TEAMWORK| AI ON | NO KF | Boosted XP | discord.gg/3YjYEEhHK",
-        "players": 125,
+        "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "players": 124,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -91,14 +140,14 @@
         "map": "Unknown"
     },
     {
-        "name": "[EU/UK1] HOGS OF WAR | WCS+RHS | CONSOLE FRIENDLY | Join Discord.gg/HOGSOFWAR",
+        "name": "[EU1] SpearHead Yunakivka UHC | Crossplay | Discord.gg/spear-head | Hosted by LoafHosts",
         "players": 124,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "#2 EXD.gg \u00bb 1st Person | Everon & Kolguyev | EU | Vanilla | Discord.exd.gg - jk43w",
+        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
         "players": 124,
         "maxPlayers": 128,
         "status": "online",
@@ -112,29 +161,8 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 122,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
-        "players": 121,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU5] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com",
-        "players": 119,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
-        "players": 118,
+        "name": "#2 EXD.gg \u00bb 1st Person | Everon & Kolguyev | EU | Vanilla | Discord.exd.gg - jk43w",
+        "players": 120,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -142,13 +170,6 @@
     {
         "name": "[NA1] The Eastern Front | TEF | PVP | Crossplay",
         "players": 116,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU1] SpearHead Yunakivka UHC | Crossplay | Discord.gg/spear-head | Hosted by LoafHosts",
-        "players": 113,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -168,15 +189,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA7] W.C.S. Realism NATO/RUS Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 109,
+        "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
+        "players": 107,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[BRASIL/LATAM] SAS #2 MIDCORE | UC X RU | CROSSPLAY | Discord.gg/sasbr",
-        "players": 106,
+        "name": "[NA6] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com | Hosted by awn.gg",
+        "players": 94,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -189,14 +210,28 @@
         "map": "Unknown"
     },
     {
-        "name": "[AWG-Alpha] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
-        "players": 83,
+        "name": "[NA7] W.C.S. Realism NATO/RUS Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "players": 91,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "BTGG 1 | US Civil War - Golden Gate | discord.gg/armabtgg",
+        "players": 82,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
         "name": "[FR] Nous \u00e9tions Soldats 2 | PS5/PC/XBOX | discord.armanes.ovh",
+        "players": 81,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA8] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com | Hosted by awn.gg",
         "players": 81,
         "maxPlayers": 128,
         "status": "online",
@@ -210,7 +245,7 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA1] SpearHead Yunakivka UHC | Crossplay | Discord.gg/spear-head | Hosted by LoafHosts",
+        "name": "[NA3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
         "players": 62,
         "maxPlayers": 128,
         "status": "online",
@@ -247,20 +282,6 @@
     {
         "name": "NARCOS LIFE ROLEPLAY | US-2 | PUBLIC | discord.gg/narcosliferp",
         "players": 43,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA8] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com | Hosted by awn.gg",
-        "players": 43,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[LATAMSQUAD] UCRANIA CORE #1 (PC/XBOX/PS5) | Discord.gg/latamsquad",
-        "players": 42,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -315,29 +336,8 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 22,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
         "name": "Old Guys 1 | Rahhaliyah Iraq | Modern Conflict | discord.gg/oldguys",
         "players": 21,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "BTGG 1 | US Civil War - Golden Gate | discord.gg/armabtgg",
-        "players": 17,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA6] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com | Hosted by awn.gg",
-        "players": 16,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
