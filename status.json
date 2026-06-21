@@ -28,6 +28,13 @@
         "map": "Unknown"
     },
     {
+        "name": "[NA1] WARPIGS 24/7 TACTICS & TEAMWORK | NEW PLAYERS WELCOME | Boosted XP |discord.gg/3tTE7Ek7qG",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
         "name": "[FR] Hard Corps des Clutchers | PVP Conflict | 1 | discord.gg/corps-des-clutchers",
         "players": 128,
         "maxPlayers": 128,
@@ -49,15 +56,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[OYB] Old Young Bastards | Vanilla Everon | Active Admins | PS5/XBOX/PC | New Player Friendly",
+        "name": "[RU] #2 | ARMA-RUSSIAN.RU | RUSSIAN SERVER | NATO-RU | DRONES",
         "players": 128,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[RU] #2 | ARMA-RUSSIAN.RU | RUSSIAN SERVER | NATO-RU | DRONES",
-        "players": 128,
+        "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
+        "players": 127,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -70,28 +77,14 @@
         "map": "Unknown"
     },
     {
-        "name": "BTGG 1 | US Civil War - Golden Gate | discord.gg/armabtgg",
-        "players": 126,
+        "name": "[OYB] Old Young Bastards | Vanilla Everon | Active Admins | PS5/XBOX/PC | New Player Friendly",
+        "players": 127,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[NA2] WARPIGS 24/7 TACTICS & TEAMWORK| AI ON | NO KF | Boosted XP | discord.gg/3tTE7Ek7qG",
-        "players": 126,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA1] WARPIGS 24/7 TACTICS & TEAMWORK | NEW PLAYERS WELCOME | Boosted XP |discord.gg/3tTE7Ek7qG",
-        "players": 126,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[MEX][USA]Bravo Six Company | Sedena vs Narcos Milsim/RP | PC/XBOX/PS5 |",
+        "name": "[NA3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
         "players": 126,
         "maxPlayers": 128,
         "status": "online",
@@ -105,14 +98,35 @@
         "map": "Unknown"
     },
     {
-        "name": "[EU2] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com",
+        "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
         "players": 125,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "name": "BTGG 1 | US Civil War - Golden Gate | discord.gg/armabtgg",
+        "players": 125,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
+        "players": 125,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[EU/UK1] HOGS OF WAR | WCS+RHS | CONSOLE FRIENDLY | Join Discord.gg/HOGSOFWAR",
+        "players": 125,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA2] WARPIGS 24/7 TACTICS & TEAMWORK| AI ON | NO KF | Boosted XP | discord.gg/3tTE7Ek7qG",
         "players": 124,
         "maxPlayers": 128,
         "status": "online",
@@ -133,50 +147,43 @@
         "map": "Unknown"
     },
     {
-        "name": "BTGG 2 | US Civil War - Golden Gate | discord.gg/armabtgg",
-        "players": 124,
+        "name": "[EU2] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com",
+        "players": 123,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[EU/UK1] HOGS OF WAR | WCS+RHS | CONSOLE FRIENDLY | Join Discord.gg/HOGSOFWAR",
-        "players": 124,
+        "name": "BTGG 2 | US Civil War - Golden Gate | discord.gg/armabtgg",
+        "players": 122,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
         "name": "[NA2] OPR FARGO | 3pp Ukraine-Russia War | discord.gg/oprfargo",
-        "players": 123,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
-        "players": 123,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 123,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
-        "players": 123,
+        "players": 120,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
         "name": "[AWG-Alpha] GHOST OPS DELTA | Conflict Everon | PS5-XBOX-PC Crossplay |ACTIVE ADMINS discord.gg/AWG",
-        "players": 121,
+        "players": 120,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[MEX][USA]Bravo Six Company | Sedena vs Narcos Milsim/RP | PC/XBOX/PS5 |",
+        "players": 120,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[NA1] SpearHead Yunakivka UHC | Crossplay | Discord.gg/spear-head | Hosted by LoafHosts",
+        "players": 114,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -198,13 +205,6 @@
     {
         "name": "NARCOS LIFE ROLEPLAY | US-1 | PUBLIC | discord.gg/narcosliferp",
         "players": 99,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA1] SpearHead Yunakivka UHC | Crossplay | Discord.gg/spear-head | Hosted by LoafHosts",
-        "players": 93,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -253,7 +253,7 @@
     },
     {
         "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
-        "players": 44,
+        "players": 41,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
