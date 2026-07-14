@@ -42,7 +42,21 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "name": "[OGR1] Old Guard Revival 1 | Udachne Drones | Modern Conflict | Crossplay | discord.gg/oldguardarma",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
+        "players": 128,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[EU5] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com",
         "players": 128,
         "maxPlayers": 128,
         "status": "online",
@@ -56,20 +70,6 @@
         "map": "Unknown"
     },
     {
-        "name": "[OYB] Old Young Bastards | Vanilla Everon | Active Admins | PS5/XBOX/PC | New Player Friendly",
-        "players": 127,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "BTGG 1 | US Civil War - Yellowstone | discord.gg/armabtgg",
-        "players": 127,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
         "name": "[FOR] Conflict #1 - Arland PVP - No A.I. - Favorite & Join 3000+ players @ discord.gg/fieldofregard",
         "players": 126,
         "maxPlayers": 128,
@@ -77,35 +77,49 @@
         "map": "Unknown"
     },
     {
-        "name": "[BRASIL/LATAM] SAS #1 EASYCORE | US vs RU | CROSSPLAY | Discord.gg/sasbr",
+        "name": "BTGG 1 | US Civil War - Yellowstone | discord.gg/armabtgg",
         "players": 126,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[EU5] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com",
+        "name": "[NA2] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
         "players": 125,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
+        "name": "[LATAMSQUAD] UCRANIA CORE #1 (PC/XBOX/PS5) | Discord.gg/latamsquad",
+        "players": 125,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[BRASIL/LATAM] SAS #1 EASYCORE | US vs RU | CROSSPLAY | Discord.gg/sasbr",
+        "players": 125,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[OYB] Old Young Bastards | Vanilla Everon | Active Admins | PS5/XBOX/PC | New Player Friendly",
         "players": 124,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[AWG Alpha1] GHOST OPS DELTA | Vanilla Everon | 2XP | Crossplay | ACTIVE ADMINS | discord.gg/hfe79Aw",
-        "players": 124,
+        "name": "[NA1] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "players": 123,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[OGR1] Old Guard Revival 1 | Udachne Drones | Modern Conflict | Crossplay | discord.gg/oldguardarma",
+        "name": "[NA6] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com | Hosted by awn.gg",
         "players": 123,
         "maxPlayers": 128,
         "status": "online",
@@ -113,14 +127,7 @@
     },
     {
         "name": "[EU6] W.C.S. Realism NATO/RUS New Everon AAS | discord.armawcs.com",
-        "players": 122,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[EU3] W.C.S. Realism NATO/RUS New Everon Conflict | discord.armawcs.com",
-        "players": 122,
+        "players": 123,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -140,15 +147,22 @@
         "map": "Unknown"
     },
     {
-        "name": "[LATAMSQUAD] UCRANIA CORE #1 (PC/XBOX/PS5) | Discord.gg/latamsquad",
-        "players": 121,
+        "name": "[NA2] OPR FARGO | 3pp Ukraine-Russia War | discord.gg/oprfargo",
+        "players": 119,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[NA2] OPR FARGO | 3pp Ukraine-Russia War | discord.gg/oprfargo",
-        "players": 112,
+        "name": "[AWG Alpha1] GHOST OPS DELTA | Vanilla Everon | 2XP | Crossplay | ACTIVE ADMINS | discord.gg/hfe79Aw",
+        "players": 116,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "[ ARAB ARMA ] [ PS5 : XBOX : PC ] [ https://discord.gg/A-M ]",
+        "players": 113,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -163,13 +177,6 @@
     {
         "name": "[NA] VIETNAM '67 | ARMACONFLICT.COM | US-2 | VIN DIN DROP | WELCOME PS5",
         "players": 110,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "[NA2] W.C.S. Realism NATO/RUS Serhiivka Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 107,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -196,8 +203,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA6] W.C.S. Realism NATO/RUS Belleau Wood DAAS | discord.armawcs.com | Hosted by awn.gg",
-        "players": 95,
+        "name": "[NA7] W.C.S. Realism NATO/RUS Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
+        "players": 99,
+        "maxPlayers": 128,
+        "status": "online",
+        "map": "Unknown"
+    },
+    {
+        "name": "BTGG 2 | US Civil War - Golden Gate | discord.gg/armabtgg",
+        "players": 86,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -217,15 +231,15 @@
         "map": "Unknown"
     },
     {
-        "name": "[FR] Nous \u00e9tions Soldats 2 | PS5/PC/XBOX | discord.armanes.ovh",
-        "players": 68,
+        "name": "[MEX][USA] Bravo Six Company |  Sedena vs Narcos ( Milsim / RP ) | PC/XBOX/PS5 |",
+        "players": 78,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
     },
     {
-        "name": "[MEX][USA] Bravo Six Company |  Sedena vs Narcos ( Milsim / RP ) | PC/XBOX/PS5 |",
-        "players": 64,
+        "name": "[FR] Nous \u00e9tions Soldats 2 | PS5/PC/XBOX | discord.armanes.ovh",
+        "players": 68,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
@@ -252,13 +266,6 @@
         "map": "Unknown"
     },
     {
-        "name": "[NA7] W.C.S. Realism NATO/RUS Everon Conflict | discord.armawcs.com | Hosted by awn.gg",
-        "players": 53,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
         "name": "[NA1] Frontline JOIN NA2| Bakhmut City | PVP | Crossplay | discord.gg/ArmaFrontline",
         "players": 50,
         "maxPlayers": 128,
@@ -275,13 +282,6 @@
     {
         "name": "[MEXICO] EL CONCILIO 1 RP MILSIM-ROLEPLAY NARCOS VS SEDENA",
         "players": 43,
-        "maxPlayers": 128,
-        "status": "online",
-        "map": "Unknown"
-    },
-    {
-        "name": "BTGG 2 | US Civil War - Golden Gate | discord.gg/armabtgg",
-        "players": 41,
         "maxPlayers": 128,
         "status": "online",
         "map": "Unknown"
